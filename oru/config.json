@@ -1,5 +1,5 @@
 {
-  "name": "Orange and Rockland Utility to MQTT Bridge",
+  "name": "RHDNY Fork - Orange and Rockland Utility to MQTT Bridge",
   "version": "0.2.57",
   "slug": "oru",
   "description": "Orange and Rockland Utility meter reading to MQTT",
@@ -10,7 +10,7 @@
   "boot": "auto",
   "map": ["share:rw", "ssl"],
   "devices": ["/dev/bus/usb:/dev/bus/usb:rwm"],
-  "host_network": "False",
+  "host_network": "True",
   "arch": [
     "aarch64",
     "amd64",
