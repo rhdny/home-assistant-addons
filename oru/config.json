@@ -30,7 +30,7 @@
     "account_uuid": "",
     "meter_number": "",
     "site": "",
-    "mqtt_host": "hassio.local",
+    "mqtt_host": "",
     "mqtt_user": "",
     "mqtt_password": ""
   },
