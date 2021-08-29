@@ -10,7 +10,8 @@
   "boot": "auto",
   "map": ["share:rw", "ssl"],
   "devices": ["/dev/bus/usb:/dev/bus/usb:rwm"],
-  "host_network": "True",
+  "host_network": "False",
+  "host_dbus": "True",
   "arch": [
     "aarch64",
     "amd64",
