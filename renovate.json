@@ -5,7 +5,7 @@
   "commitMessageAction": "Updates",
   "commitMessageTopic": "{{depName}}",
   "commitMessagePrefix": ":arrow_up:",
-  "labels": [
+  "labels": [ 
     "Type: Maintenance"
   ]
 }
