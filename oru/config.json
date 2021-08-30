@@ -1,6 +1,6 @@
 {
-  "name": "RHDNY Fork v2 - Orange and Rockland Utility to MQTT Bridge",
-  "version": "0.2.58",
+  "name": "RHDNY Fork v3 - Orange and Rockland Utility to MQTT Bridge",
+  "version": "0.2.59",
   "slug": "oru",
   "description": "Orange and Rockland Utility meter reading to MQTT",
   "url": "https://github.com/rhdny/home-assistant-addons/tree/master/oru",
