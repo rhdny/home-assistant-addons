@@ -10,7 +10,7 @@ RUN ln -s /usr/bin/chromium /usr/bin/chromium-browser
 
 COPY requirements.txt .
 RUN pip3 install -r requirements.txt
-RUN pip3 install git+https://github.com/rhdny/coned.git
+RUN pip3 install git+https://github.com/rhdny/coned/coned.git
 
 COPY run.py .
 COPY run.sh .
